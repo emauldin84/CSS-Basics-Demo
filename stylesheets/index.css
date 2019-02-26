@@ -3,7 +3,7 @@ These are the styles for the whole document
 */
 
 .main-title {
-    background: rgb(205, 134, 134);
+    background: rgba(205, 134, 134, 0.6);
 }
 
 .fancy-font, .nav-bar {
@@ -31,9 +31,10 @@ These are the styles for the whole document
 }
 
 .creature-image {
-    background-image: url("../images/59d4f1dec68d7b26008b754e-750-563.jpg");
+    background-image: url("../images/Awards_01-1024x629.jpg");
     height: 300px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    padding-top: 20px;
 }
