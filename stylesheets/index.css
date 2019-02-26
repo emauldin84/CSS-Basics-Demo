@@ -13,4 +13,27 @@ These are the styles for the whole document
     margin: 0;
 }
 
+.nav-bar ul {
+    padding-left: 0;
 
+}
+.nav-bar li {
+    color: rgb(42, 75, 101);
+    list-style: none;
+}
+
+.main-image {
+    width: 350px;
+}
+
+.main-image img{
+    width: 100%;
+}
+
+.creature-image {
+    background-image: url("../images/59d4f1dec68d7b26008b754e-750-563.jpg");
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
