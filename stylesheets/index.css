@@ -9,4 +9,8 @@ These are the styles for the whole document
 .fancy-font, .nav-bar {
     font-family: 'Open Sans', sans-serif;
     color: rgb(54, 220, 176);
+    padding: 12px 8px;
+    margin: 0;
 }
+
+
