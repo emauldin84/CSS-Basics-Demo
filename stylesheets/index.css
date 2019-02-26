@@ -3,5 +3,10 @@ These are the styles for the whole document
 */
 
 .main-title {
-    background: red;
+    background: rgb(205, 134, 134);
+}
+
+.fancy-font, .nav-bar {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(54, 220, 176);
 }
